@@ -1,15 +1,15 @@
 # Data System
 ### Java proyect
 
-Simula un sistema de una empresa de reparación de computadores, capaz de llevar los estados y la condición de múltiples computadores, el inicio de sesión de distintos tipos de usuarios, y la creación de reportes.
+Simulates a system of a computer repair company, capable of keeping the status and condition of multiple computers, the login of different types of users, and the creation of reports.
 
 ## Features
-* Uso de filtros de búsqueda.
-* Múltiples interfaces según el tipo de usuario.
-* Control de errores antes y después del início de sesión.
-* Manejo de autorización y autenticación de usuarios.
-* Impresión de reportes de cada cliente.
-* Funcionalidades dependientes del tipo de usuario.
+* Use of search filters.
+* Multiple interfaces depending on the type of user.
+* Error control before and after login.
+* Management of authorization and user authentication.
+* Printing of reports of each client.
+* Functionalities depending on the type of user.
 
 
 ## Technologies
@@ -29,6 +29,6 @@ Eclipse 2019‑06
 
 
 ## Authors
-This project was made from a base project presented in the Youtube channel "La geekipedia de ernesto".
+This project was made from a Java base project presented in the Youtube channel "La geekipedia de ernesto".
 
 **Juan Manuel Cerón Araujo** - [LinkedIn](https://www.linkedin.com/in/juanmanuelceronaraujo)
