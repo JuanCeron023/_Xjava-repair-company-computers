@@ -1,6 +1,10 @@
 # Data System
 ### Java proyect
-
+*
+*
+*
+*
+*
 Simulates a system of a computer repair company, capable of keeping the status and condition of multiple computers, the login of different types of users, and the creation of reports.
 
 ## Features
