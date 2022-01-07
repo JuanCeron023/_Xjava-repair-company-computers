@@ -30,4 +30,4 @@ Eclipse 2019‑06
 ## Authors
 This project was made from a Java base project presented in the Youtube channel "La geekipedia de ernesto".
 
-**Juan Manuel Cerón Araujo** - [LinkedIn](https://www.linkedin.com/in/juanmanuelceronaraujo)
+**Juan Manuel Cerón Araujo** - [LinkedIn](https://www.linkedin.com/in/juanmanuelceronaraujo) 
